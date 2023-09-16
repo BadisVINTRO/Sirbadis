@@ -1,0 +1,5 @@
+@media screen and (min-midth : 750px){
+    .r-body-inner{
+        display: flex;
+    }
+}
